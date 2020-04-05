@@ -1,5 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
-##(with a Twist)
+#(with a Twist)
 
 ## Contents
 
