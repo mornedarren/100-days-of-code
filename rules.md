@@ -1,4 +1,5 @@
-# Rules of the 100 Days Of Code Challenge
+# My Rules of the 100 Days Of Code Challenge
+I have made a slight adjustment to the rules for my #100DaysOfCode, as I will be using the challange, to learn Kotlin and Andriod app development.
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
