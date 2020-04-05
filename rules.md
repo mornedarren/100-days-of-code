@@ -2,7 +2,7 @@
 I have made a slight adjustments to the rules for my #100DaysOfCode, as I will be using the challange, to learn Kotlin and Mobile App development.
 
 ## Main Commitment
-### *I will learn to code for at least an hour every day for the next 100 days.*
+### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
 April 6th, 2020. [PUT YOUR DATE HERE]
